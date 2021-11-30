@@ -1,5 +1,5 @@
 {
-  "name": "@torontosfinest/lotide",
+  "name": "@abdi_ali/lotide",
   "version": "1.0.0",
   "description": "github repo of lodash's younger brother, lotide. LHL assignment.",
   "main": "assertArraysEqual.js",
