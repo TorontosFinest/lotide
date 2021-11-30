@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@torontosfinest/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "github repo of lodash's younger brother, lotide. LHL assignment.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/TorontosFinest/lotide.git"
   },
-  "author": "",
+  "author": "Abdi Ali",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TorontosFinest/lotide/issues"
