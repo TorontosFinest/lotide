@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TorontosFinest/lotide.git"
+    "url": "git+https://github.com/TorontosFinest/lotide.git"
   },
   "author": "Abdi Ali",
   "license": "ISC",
